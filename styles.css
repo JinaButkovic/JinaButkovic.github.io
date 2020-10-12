@@ -1,5 +1,5 @@
 body{
-    background: lightblue;
+    background: #BBC6B8;
     font-family:Arial, Helvetica, sans-serif
 }
 
@@ -7,19 +7,21 @@ body{
     display: flex;
     padding: 10px;
     margin: 10px;
-    background: lightgoldenrodyellow;
+    background: #F3D8CE;
 }
 
 .assignment img{
     width: 200px;
-    padding: 10px;
+    border: 2px solid #BBC6B8;
+    margin-right: 20px;
 }
 
 h1{
-    color: whitesmoke;
+    color: #41270E;
     text-align:center;
 }
 
-a {
+a{
     text-decoration:none;
+    color:#233D16;
 }
